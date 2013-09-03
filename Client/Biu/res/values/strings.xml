@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_my_contact_list">MyContactList</string>
+    <string name="title_activity_my_info">MyInfo</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="my_name">姓名</string>
+    <string name="my_phone">电话</string>
+    <string name="my_signature">签名</string>
+    <string name="my_email">邮箱</string>
+    <string name="my_info">我的信息</string>
+    <string name="my_contact">我的联系人</string>
+    <string name="biu">Biu</string>
+    <string name="people_received">Biu来的人</string>
+    <string name="people_sent">Biu出的人</string>
+    <string name="select_all">全选</string>
+    <string name="close">关闭</string>
+    <string name="cancel">取消</string>
+    <string name="name_received">张成标</string>
+    <string name="send_request">已请求交换</string>
+    <string name="swap_success">交换成功</string>
+    <string name="commit">确认</string>
+    <string name="title_activity_contact_list">aa</string>
+    <string name="title_activity_people_received">People_received</string>
+    <string name="title_activity_forward_page">Forward_page</string>
+    <string name="title_activity_send_frined">Send_frined</string>
+    <string name="title_activity_save_to_contacts">SaveToContacts</string>
+
+</resources>
